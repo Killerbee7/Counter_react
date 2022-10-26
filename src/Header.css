@@ -3,10 +3,14 @@
     margin: 0;
 }
 header{
-   height: 5vh;
+   height: 15vh;
     width: 100%;
-    background-color: aqua;
-    text-align: center;
-    padding: 30px;
-    
+    background-color: aqua;  
+
 }
+
+header h1{
+    text-align: center;
+    padding: 5vh 0;
+}
+
